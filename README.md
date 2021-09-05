@@ -1,2 +1,2 @@
-# tindpg
+# tindog
 dog's dating site...
